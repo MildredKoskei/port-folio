@@ -1,7 +1,7 @@
 import React from "react";
-function Techstack(){
-    <div>
-
-    </div>
+function Techstack() {
+    return(
+  <div>Techstack</div>
+  );
 }
 export default Techstack;

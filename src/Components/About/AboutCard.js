@@ -1,7 +1,7 @@
 import React from "react";
-function AboutCard(){
-    <div>
-
-    </div>
+function AboutCard() {
+    return(
+  <div>AboutCard</div>
+  );
 }
 export default AboutCard;
