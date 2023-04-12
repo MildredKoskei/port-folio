@@ -6,7 +6,8 @@ import Home from "./Components/Home/Home";
 import Projects from "./Components/Projects/Projects";
 import Resume from "./Components/Resume/Resume";
 import Footer from "./Components/Footer";
-import { Route, Routes, BrowserRouter as Router} from "react-router-dom"
+import { Route, Routes, BrowserRouter as Router } from "react-router-dom"
+
 
 function App() {
   return (
