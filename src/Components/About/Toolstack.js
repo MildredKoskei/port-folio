@@ -6,6 +6,7 @@ function Toolstack() {
     <li>react</li>
     <li>angular</li>
     <li>rails</li>
+    <li>oracle database</li>
   </div>
   );
 }
