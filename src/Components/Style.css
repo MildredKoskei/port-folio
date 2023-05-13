@@ -3,3 +3,14 @@
     width: 100vw;
     height: 100vh;
 }
+ul {
+    list-style: none; /* Remove default bullet points */
+    padding: 0; /* Remove default padding */
+    margin: 0; /* Remove default margin */
+  }
+  
+  li {
+    display:flex; /* Display list items in a horizontal line */
+    float: right;
+    margin-right: 10px; /* Add some spacing between list items */
+  }
